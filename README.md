@@ -2,6 +2,7 @@
 Title: A survey on Text Summary with frequency based method
 
 Prior to 2010:
+
 Multi-document Summarization by Graph Search and Matching - 1997
 By Inderjeet Mani (MITRE Corporation), Eric Bloedorn (MITRE Corporation)
 Paper: https://arxiv.org/pdf/cmp-lg/9712004.pdf
@@ -19,6 +20,7 @@ By: Ian H. Witten, Gordon W. Paynter, Eibe Frank, Carl Gutwin, Craig G. Nevill-M
 Paper: https://arxiv.org/ftp/cs/papers/9902/9902007.pdf
 
 2010-2014:
+
 Bengali text summarization by sentence extraction - 2012
 By Kamal Sarkar
 Paper: https://arxiv.org/ftp/arxiv/papers/1201/1201.2240.pdf
@@ -32,6 +34,7 @@ By: Rushdi Shams, M.M.A. Hashem, Afrina Hossain, Suraiya Rumana Akter, Monika Go
 Paper: https://arxiv.org/ftp/arxiv/papers/1304/1304.2476.pdf
 
 2015-2019:
+
 Extractive Summarization using Deep Learning - 2019
 By Sukriti Verma, Vagisha Nidhi
 Paper: https://arxiv.org/pdf/1708.04439.pdf
@@ -45,6 +48,7 @@ By Yue Dong
 Paper: https://arxiv.org/pdf/1804.04589.pdf
 
 2020-2023:
+
 A comprehensive review of automatic text summarization techniques: method, data, evaluation and coding - 2023
 By Daniel O. Cajueiro, Arthur G. Nery, Igor Tavares, Maísa K. De Melo, Silvia A. dos Reis, Li Weigang, Victor R. R. Celestino
 Paper: https://arxiv.org/pdf/2301.03403.pdf
