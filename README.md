@@ -43,20 +43,47 @@ Data-driven Summarization of Scientific Articles
 By Nikola I. Nikolov, Michael Pfeiffer, Richard H.R. Hahnloser
 Paper: https://arxiv.org/pdf/1804.08875.pdf
 
-A Survey on Neural Network-Based Summarization Methods - 2019
-By Yue Dong
-Paper: https://arxiv.org/pdf/1804.04589.pdf
+BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+By Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
+Paper: https://arxiv.org/pdf/1910.13461.pdf
+Github: https://github.com/facebookresearch/fairseq/tree/main/examples/bart
+
+Neural Summarization by Extracting Sentences and Words - 2016
+By Jianpeng Cheng, Mirella Lapata
+Paper: https://arxiv.org/pdf/1603.07252.pdf
+Github: https://github.com/cheng6076/NeuralSum
 
 2020-2023:
+Adapting Pretrained Text-to-Text Models for Long Text Sequences - 2022
+By Wenhan Xiong∗, Anchit Gupta∗, Shubham Toshniwal, Yashar Mehdad, Wen-tau Yih
+Paper: https://arxiv.org/pdf/2209.10052v2.pdf
+Github: https://github.com/facebookresearch/bart_ls
+
+Uzbek text summarization based on TF-IDF - 2023
+By Khabibulla Madatov, Shukurla Bekchanov, Jernej Vičič
+Paper: https://arxiv.org/ftp/arxiv/papers/2303/2303.00461.pdf
+
+A Divide-and-Conquer Approach to the Summarization of Long Documents - 2020
+By Alexios Gidiotis, Grigorios Tsoumakas
+Paper: https://arxiv.org/pdf/2004.06190v3.pdf
+Github: https://github.com/AlexGidiotis/DANCER-summ
+
+----------------------------------------------------------------------------------------------------------------------------
+
+other review for reference just for myself:
+Automatic Text Summarization Methods: A Comprehensive Review - 2022
+By Divakar Yadav, Jalpa Desai, Arun Kumar Yadav
+Paper: https://arxiv.org/ftp/arxiv/papers/2204/2204.01849.pdf
 
 A comprehensive review of automatic text summarization techniques: method, data, evaluation and coding - 2023
 By Daniel O. Cajueiro, Arthur G. Nery, Igor Tavares, Maísa K. De Melo, Silvia A. dos Reis, Li Weigang, Victor R. R. Celestino
 Paper: https://arxiv.org/pdf/2301.03403.pdf
 
-Automatic Text Summarization Methods: A Comprehensive Review - 2022
-By Divakar Yadav, Jalpa Desai, Arun Kumar Yadav
-Paper: https://arxiv.org/ftp/arxiv/papers/2204/2204.01849.pdf
+A Survey on Neural Network-Based Summarization Methods - 2019
+By Yue Dong
+Paper: https://arxiv.org/pdf/1804.04589.pdf
 
-Uzbek text summarization based on TF-IDF - 2023
-By Khabibulla Madatov, Shukurla Bekchanov, Jernej Vičič
-Paper: https://arxiv.org/ftp/arxiv/papers/2303/2303.00461.pdf
+site for recommending paper:
+https://github.com/neulab/Text-Summarization-Papers
+
+https://paperswithcode.com/task/text-summarization/codeless
