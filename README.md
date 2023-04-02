@@ -33,6 +33,11 @@ Corpus-based Web Document Summarization using Statistical and Linguistic Approac
 By: Rushdi Shams, M.M.A. Hashem, Afrina Hossain, Suraiya Rumana Akter, Monika Gope
 Paper: https://arxiv.org/ftp/arxiv/papers/1304/1304.2476.pdf
 
+Representation Learning for Text-level Discourse Parsing - 2014
+By: Yangfeng Ji, Jacob Eisenstein
+Paper: https://aclanthology.org/P14-1002.pdf
+Github: https://github.com/jiyfeng/DPLP
+
 2015-2019:
 
 Extractive Summarization using Deep Learning - 2019
@@ -52,6 +57,11 @@ Neural Summarization by Extracting Sentences and Words - 2016
 By Jianpeng Cheng, Mirella Lapata
 Paper: https://arxiv.org/pdf/1603.07252.pdf
 Github: https://github.com/cheng6076/NeuralSum
+
+Attention Is All You Need - 2017
+By Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin 
+Paper: https://arxiv.org/pdf/1706.03762v5.pdf
+Github: https://github.com/tensorflow/tensor2tensor
 
 2020-2023:
 Adapting Pretrained Text-to-Text Models for Long Text Sequences - 2022
