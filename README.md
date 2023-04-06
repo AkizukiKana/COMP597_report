@@ -1,5 +1,5 @@
 # COMP597_report
-Title: A survey on Text Summary with frequency based method
+Title: A survey on Text Summary
 
 Prior to 2010:
 
@@ -53,7 +53,7 @@ By Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohame
 Paper: https://arxiv.org/pdf/1910.13461.pdf
 Github: https://github.com/facebookresearch/fairseq/tree/main/examples/bart
 
-Neural Summarization by Extracting Sentences and Words - 2016
+Neural Summarization by Extracting Sentences and Words - 2016 <---- good for impl
 By Jianpeng Cheng, Mirella Lapata
 Paper: https://arxiv.org/pdf/1603.07252.pdf
 Github: https://github.com/cheng6076/NeuralSum
@@ -73,7 +73,7 @@ Uzbek text summarization based on TF-IDF - 2023
 By Khabibulla Madatov, Shukurla Bekchanov, Jernej Vičič
 Paper: https://arxiv.org/ftp/arxiv/papers/2303/2303.00461.pdf
 
-A Divide-and-Conquer Approach to the Summarization of Long Documents - 2020
+A Divide-and-Conquer Approach to the Summarization of Long Documents - 2020 <---- good for impl
 By Alexios Gidiotis, Grigorios Tsoumakas
 Paper: https://arxiv.org/pdf/2004.06190v3.pdf
 Github: https://github.com/AlexGidiotis/DANCER-summ
