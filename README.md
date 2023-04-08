@@ -63,6 +63,11 @@ By Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aida
 Paper: https://arxiv.org/pdf/1706.03762v5.pdf
 Github: https://github.com/tensorflow/tensor2tensor
 
+Text Summarization with Pretrained Encoders - 2019
+By Yang Liu, Mirella Lapata
+Paper: https://arxiv.org/pdf/1908.08345v2.pdf
+Github: https://github.com/nlpyang/PreSumm/tree/dev
+
 2020-2023:
 
 Adapting Pretrained Text-to-Text Models for Long Text Sequences - 2022
