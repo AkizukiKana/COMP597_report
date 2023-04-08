@@ -53,7 +53,7 @@ By Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohame
 Paper: https://arxiv.org/pdf/1910.13461.pdf
 Github: https://github.com/facebookresearch/fairseq/tree/main/examples/bart
 
-Neural Summarization by Extracting Sentences and Words - 2016 <---- good for impl
+Neural Summarization by Extracting Sentences and Words - 2016 
 By Jianpeng Cheng, Mirella Lapata
 Paper: https://arxiv.org/pdf/1603.07252.pdf
 Github: https://github.com/cheng6076/NeuralSum
@@ -63,7 +63,7 @@ By Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aida
 Paper: https://arxiv.org/pdf/1706.03762v5.pdf
 Github: https://github.com/tensorflow/tensor2tensor
 
-Text Summarization with Pretrained Encoders - 2019
+Text Summarization with Pretrained Encoders - 2019 <---- good for impl
 By Yang Liu, Mirella Lapata
 Paper: https://arxiv.org/pdf/1908.08345v2.pdf
 Github: https://github.com/nlpyang/PreSumm/tree/dev
