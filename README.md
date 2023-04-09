@@ -74,10 +74,6 @@ Paper: https://paperswithcode.com/paper/deep-recurrent-generative-decoder-for
 Github: https://github.com/toru34/li_emnlp_2017
 
 2020-2023:
-Rethinking Perturbations in Encoder-Decoders for Fast Training --2021
-By: Sho Takase, Shun Kiyono
-Paper: https://paperswithcode.com/paper/rethinking-perturbations-in-encoder-decoders
-Github: https://github.com/takase/rethink_perturbations
 
 Adapting Pretrained Text-to-Text Models for Long Text Sequences - 2022
 By Wenhan Xiong∗, Anchit Gupta∗, Shubham Toshniwal, Yashar Mehdad, Wen-tau Yih
@@ -92,8 +88,6 @@ A Divide-and-Conquer Approach to the Summarization of Long Documents - 2020 <---
 By Alexios Gidiotis, Grigorios Tsoumakas
 Paper: https://arxiv.org/pdf/2004.06190v3.pdf
 Github: https://github.com/AlexGidiotis/DANCER-summ
-
-Deep Recurrent Generative Decoder for Abstractive Text Summarization
 
 
 ----------------------------------------------------------------------------------------------------------------------------
