@@ -89,6 +89,11 @@ By Alexios Gidiotis, Grigorios Tsoumakas
 Paper: https://arxiv.org/pdf/2004.06190v3.pdf
 Github: https://github.com/AlexGidiotis/DANCER-summ
 
+Extractive Summarization as Text Matching <---- good for impl
+By: Ming Zhong, PengFei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang
+Paper: https://paperswithcode.com/paper/extractive-summarization-as-text-matching
+Github: https://github.com/maszhongming/MatchSum
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
