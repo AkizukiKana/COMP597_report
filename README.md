@@ -68,6 +68,11 @@ By Yang Liu, Mirella Lapata
 Paper: https://arxiv.org/pdf/1908.08345v2.pdf
 Github: https://github.com/nlpyang/PreSumm/tree/dev
 
+Deep Recurrent Generative Decoder for Abstractive Text Summarization <---- good for impl
+By: Piji Li, Wai Lam, Lidong Bing, ZiHao Wang
+Paper: https://paperswithcode.com/paper/deep-recurrent-generative-decoder-for
+Github: https://github.com/toru34/li_emnlp_2017
+
 2020-2023:
 
 Adapting Pretrained Text-to-Text Models for Long Text Sequences - 2022
@@ -83,6 +88,9 @@ A Divide-and-Conquer Approach to the Summarization of Long Documents - 2020 <---
 By Alexios Gidiotis, Grigorios Tsoumakas
 Paper: https://arxiv.org/pdf/2004.06190v3.pdf
 Github: https://github.com/AlexGidiotis/DANCER-summ
+
+Deep Recurrent Generative Decoder for Abstractive Text Summarization
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
