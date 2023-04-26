@@ -89,6 +89,9 @@ By: Ming Zhong, PengFei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huan
 Paper: https://paperswithcode.com/paper/extractive-summarization-as-text-matching
 Github: https://github.com/maszhongming/MatchSum
 
+Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization By: Shashi Narayan, Shay B. Cohen, Mirella Lapata
+Paper: https://paperswithcode.com/paper/dont-give-me-the-details-just-the-summary
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
